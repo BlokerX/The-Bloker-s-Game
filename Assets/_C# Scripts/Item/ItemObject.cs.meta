@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cbd4d24db64b89b4395d48c9b1feb3dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ItemSprite: {instanceID: 0}
+  - HelpMessageSkin: {fileID: 11400000, guid: 294b6ba6f4890794da92ffe12522e32c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
